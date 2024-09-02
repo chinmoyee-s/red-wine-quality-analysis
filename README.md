@@ -3,7 +3,7 @@
 
 ## Wine Quality Classification with Random Forest
 
-This project classifies red wine quality using a Random Forest Classifier. The dataset includes various chemical properties of wine, and the goal is to predict whether a wine is of high quality (rating 7 or above).
+This project classifies red wine quality using a Random Forest Classifier. The [dataset](https://raw.githubusercontent.com/chinmoyee-s/red-wine-quality-analysis/main/winequality-red.csv) includes various chemical properties of wine, and the goal is to predict whether a wine is of high quality (rating 7 or above).
 
 ### Project Overview
 
