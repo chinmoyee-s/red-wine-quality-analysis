@@ -1,4 +1,4 @@
-![wine quality](https://github.com/user-attachments/assets/04c03dc5-1080-4087-ad71-55ca8582ca72)# red-wine-quality-analysis
+## red-wine-quality-analysis
 
 
 ## Wine Quality Classification with Random Forest
