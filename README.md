@@ -13,27 +13,27 @@ This project classifies red wine quality using a Random Forest Classifier. The d
    - **Summary Statistics:** Analyzed statistical properties of the dataset.
    - **Visualizations:**
      - **Distribution of Wine Quality:** Shows the count of each quality rating.
-       ![Distribution of Wine Quality]
+       
        
 ![wine quality](https://github.com/user-attachments/assets/9abdb9d7-9794-429f-a004-c500ef70fd6d)
 
 
 
-     - **Volatile Acidity vs. Wine Quality:** Visualizes how volatile acidity relates to wine quality.
-       ![Volatile Acidity vs Wine Quality]
+   - **Volatile Acidity vs. Wine Quality:** Visualizes how volatile acidity relates to wine quality.
+       
 
 ![volatile acidity](https://github.com/user-attachments/assets/ad88d9f6-9c6a-44dc-8a97-7e8d9b69ee44)
 
   
        
-     - **Citric Acid vs. Wine Quality:** Shows the relationship between citric acid and wine quality.
-       ![Citric Acid vs Wine Quality](\
+   - **Citric Acid vs. Wine Quality:** Shows the relationship between citric acid and wine quality.
+       
 
 ![citric acid vs wine quality](https://github.com/user-attachments/assets/4f89fad1-2ca4-4b07-892b-e606b280e4c8)
 
        
-     - **Correlation Heatmap:** Displays the correlation between different features.
-       ![Correlation Heatmap]
+   - **Correlation Heatmap:** Displays the correlation between different features.
+     
 
        ![correlation heatmao](https://github.com/user-attachments/assets/a77c66b4-d872-4d00-a925-6d344d87b91e)
 
@@ -54,7 +54,7 @@ This project classifies red wine quality using a Random Forest Classifier. The d
        - Precision: 0.95, Recall: 0.98 for class 0; Precision: 0.79, Recall: 0.59 for class 1.
      - **Confusion Matrix:** Visualized the model's prediction performance.
        
-![confusion matrix]
+
 ![confusion matrix](https://github.com/user-attachments/assets/d053b602-ffb6-4da8-b7e8-aa47573afe7b)
 
 
