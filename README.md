@@ -13,13 +13,17 @@ This project classifies red wine quality using a Random Forest Classifier. The d
    - **Summary Statistics:** Analyzed statistical properties of the dataset.
    - **Visualizations:**
      - **Distribution of Wine Quality:** Shows the count of each quality rating.
-       ![Distribution of Wine Quality](./figures/distribution_wine_quality.png)
+       ![Distribution of Wine Quality](![image](https://github.com/user-attachments/assets/e0eda90f-6898-4a0e-8664-4d3df7b3a56c)
+)
      - **Volatile Acidity vs. Wine Quality:** Visualizes how volatile acidity relates to wine quality.
-       ![Volatile Acidity vs Wine Quality](./figures/volatile_acidity_vs_quality.png)
+       ![Volatile Acidity vs Wine Quality](![image](https://github.com/user-attachments/assets/f81c46d0-39a5-498d-9a5e-daeb4272a1b0)
+)
      - **Citric Acid vs. Wine Quality:** Shows the relationship between citric acid and wine quality.
-       ![Citric Acid vs Wine Quality](./figures/citric_acid_vs_quality.png)
+       ![Citric Acid vs Wine Quality](![image](https://github.com/user-attachments/assets/554d6731-ded7-4c6e-a253-ef2467f54955)
+)
      - **Correlation Heatmap:** Displays the correlation between different features.
-       ![Correlation Heatmap](./figures/correlation_heatmap.png)
+       ![Correlation Heatmap](![image](https://github.com/user-attachments/assets/03f454bc-4aab-426e-b63a-9fe352b9712f)
+)
 
 2. **Feature Analysis:**
    - Generated a correlation heatmap to identify feature relationships.
@@ -36,7 +40,8 @@ This project classifies red wine quality using a Random Forest Classifier. The d
      - **Classification Report:** Precision, recall, and F1-score for both classes.
        - Precision: 0.95, Recall: 0.98 for class 0; Precision: 0.79, Recall: 0.59 for class 1.
      - **Confusion Matrix:** Visualized the model's prediction performance.
-       ![Confusion Matrix](./figures/confusion_matrix.png)
+       ![Confusion Matrix](![image](https://github.com/user-attachments/assets/6cdaac2a-b7b9-47b1-9bbf-832ad03bbb60)
+)
 
 5. **Hyperparameter Tuning:**
    - **GridSearchCV:** Tuned hyperparameters for the Random Forest model.
