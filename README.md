@@ -1,4 +1,4 @@
-## red-wine-quality-analysis
+## RED WINE QUALITY ANALYSIS
 
 
 ## Wine Quality Classification with Random Forest
