@@ -40,8 +40,8 @@ This project classifies red wine quality using a Random Forest Classifier. The d
      - **Classification Report:** Precision, recall, and F1-score for both classes.
        - Precision: 0.95, Recall: 0.98 for class 0; Precision: 0.79, Recall: 0.59 for class 1.
      - **Confusion Matrix:** Visualized the model's prediction performance.
-       ![Confusion Matrix](![image](https://github.com/user-attachments/assets/6cdaac2a-b7b9-47b1-9bbf-832ad03bbb60)
-)
+       
+![confusion matrix](https://github.com/user-attachments/assets/8fc5e9a2-bca7-4f79-a8be-9b915e46ffa9)
 
 5. **Hyperparameter Tuning:**
    - **GridSearchCV:** Tuned hyperparameters for the Random Forest model.
